@@ -47,3 +47,5 @@
 --- 
 
 ## Understanding Data Types
+
+### Using Primitive Types
