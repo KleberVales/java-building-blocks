@@ -68,6 +68,7 @@
 ### Passing Constructor and Method Parameters
 ### Defining Instance and Class Variables
 ### Inferring the Type with var
+### Type Inference of var
 
 
 
