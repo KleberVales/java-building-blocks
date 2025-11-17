@@ -58,6 +58,7 @@
 ## Declaring Variables
 
 ### Identifying Identifiers
+### Declaring Multiple Variables
 
 
 
