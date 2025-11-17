@@ -64,5 +64,7 @@
 
 ## Initializing Variables
 
+### Creating Local Variables
+
 
 
