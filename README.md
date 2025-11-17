@@ -60,5 +60,9 @@
 ### Identifying Identifiers
 ### Declaring Multiple Variables
 
+---
+
+## Initializing Variables
+
 
 
