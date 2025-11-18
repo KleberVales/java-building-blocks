@@ -76,6 +76,7 @@
 
 ### Limiting Scope
 ### Tracing Scope
+### Applying Scope to Classes
 
 
 
