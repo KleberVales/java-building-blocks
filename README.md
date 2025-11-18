@@ -74,5 +74,7 @@
 
 ## Managing Variable Scope
 
+### Limiting Scope
+
 
 
