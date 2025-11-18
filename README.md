@@ -75,6 +75,7 @@
 ## Managing Variable Scope
 
 ### Limiting Scope
+### Tracing Scope
 
 
 
