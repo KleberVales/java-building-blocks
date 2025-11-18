@@ -70,5 +70,9 @@
 ### Inferring the Type with var
 ### Type Inference of var
 
+---
+
+## Managing Variable Scope
+
 
 
