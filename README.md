@@ -83,5 +83,7 @@
 
 ## Destroying Objects
 
+### Understanding Garbage Collection
+
 
 
