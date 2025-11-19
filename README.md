@@ -84,6 +84,7 @@
 ## Destroying Objects
 
 ### Understanding Garbage Collection
+### Tracing Eligibility
 
 
 
