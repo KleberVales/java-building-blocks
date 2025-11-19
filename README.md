@@ -79,5 +79,9 @@
 ### Applying Scope to Classes
 ### Reviewing Scope
 
+---
+
+## Destroying Objects
+
 
 
